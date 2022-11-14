@@ -1,10 +1,12 @@
 /********** Base styles **********/
 * {
   box-sizing: border-box;
+  font-family: Arial;
 }
 h1 {
   margin-bottom: 15px;
   text-align: center;
+  font-size: 175%;
 }
 
 p {
@@ -41,6 +43,7 @@ p {
   text-align: center;
   background-color: #34d8eb;
   color: black;
+  font-size: 125%;
   width: 30%;
   padding-top: 5px;
   padding-bottom: 5px;
@@ -55,6 +58,7 @@ p {
   text-align: center;
   background-color: #fadeec;
   color: black;
+  font-size: 125%
   width: 30%;
   padding-top: 5px;
   padding-bottom: 5px;
@@ -69,6 +73,7 @@ p {
   text-align: center;
   background-color: #22038a;
   color: white;
+  font-size: 125%;
   width: 30%;
   padding-top: 5px;
   padding-bottom: 5px;
