@@ -25,7 +25,7 @@ p {
 
 .container {
   width: 100%;
-  margin: 5%;
+  margin: 10px;
 }
 
 .sectTitle {
@@ -50,6 +50,7 @@ p {
     position: relative;
     background-color: #a9abab;
     border: 5px solid-black;
+    margin-right: 10px;
   }
   .col-lg-1 {
     width: 8.33%;
