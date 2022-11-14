@@ -29,7 +29,8 @@ p {
   height: 150px;
   background-color: #a9abab;
   border: 5px solid black;
-  margin: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
 }
 
 .sectTitle {
