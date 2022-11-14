@@ -30,8 +30,8 @@ p {
   text-align: center;
   background-color: #34d8eb;
   color: black
-  border: 1px solid-black;
-  width: 10%;
+  border: 5px solid-black;
+  width: 30%;
 }
 
 /********** Large devices only **********/
