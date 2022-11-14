@@ -30,8 +30,7 @@ p {
 }
 
 .sectTitle {
-  border: 5px;
-  border-color: black;
+  border: 5px solid black;
   position: absolute;
   right: 0;
   top: 0;
@@ -51,7 +50,7 @@ p {
     float: left;
     position: relative;
     background-color: #a9abab;
-    border: 5px black;
+    border: 5px solid black;
     margin: 10px;
   }
   .col-lg-1 {
@@ -98,7 +97,7 @@ p {
     float: left;
     position: relative;
     background-color: #a9abab;
-    border: 5px black;
+    border: 5px solid black;
     margin: 10px;
   }
   .col-md-1 {
