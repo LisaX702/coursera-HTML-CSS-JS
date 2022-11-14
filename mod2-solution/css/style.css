@@ -36,8 +36,8 @@ p {
 .sectTitle {
   border: 1px solid black;
   position: absolute;
-  right: -5px;
-  top: -5px;
+  right: -1px;
+  top: -1px;
   text-align: center;
   background-color: #34d8eb;
   color: black;
