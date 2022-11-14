@@ -25,12 +25,11 @@ p {
 }
 
 .container {
-  width: 100%;
+  width: 95%;
   height: 150px;
   background-color: #a9abab;
   border: 5px solid black;
-  margin-right: 10px;
-  margin-left: 10px;
+  margin: 10px;
 }
 
 .sectTitle {
