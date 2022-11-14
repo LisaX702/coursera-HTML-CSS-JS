@@ -27,6 +27,9 @@ p {
   right: 0;
   top: 0;
   text-align: center;
+  background-color: #34d8eb;
+  color: black
+  border: 1px solid-black;
 }
 
 /********** Large devices only **********/
