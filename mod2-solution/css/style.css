@@ -33,7 +33,7 @@ p {
   position: relative;
 }
 
-.sectTitle {
+.sectTitle1 {
   border: 1px solid black;
   position: absolute;
   right: -1px;
@@ -47,6 +47,35 @@ p {
   padding-right: 10px;
   padding-left: 10px;
 }
+.sectTitle2 {
+  border: 1px solid black;
+  position: absolute;
+  right: -1px;
+  top: -1px;
+  text-align: center;
+  background-color: #fadeec;
+  color: black;
+  width: 30%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.sectTitle3 {
+  border: 1px solid black;
+  position: absolute;
+  right: -1px;
+  top: -1px;
+  text-align: center;
+  background-color: #22038a;
+  color: white;
+  width: 30%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
 
 /********** Large devices only **********/
 @media (min-width: 992px) {
