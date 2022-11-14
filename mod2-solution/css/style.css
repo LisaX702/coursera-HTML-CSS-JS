@@ -38,6 +38,7 @@ p {
     float: left;
     position: relative;
     background-color: #a9abab;
+    border: 5px solid-black;
   }
   .col-lg-1 {
     width: 8.33%;
@@ -83,6 +84,7 @@ p {
     float: left;
     position: relative;
     background-color: #a9abab;
+    border: 5px solid-black;
   }
   .col-md-1 {
     width: 8.33%;
