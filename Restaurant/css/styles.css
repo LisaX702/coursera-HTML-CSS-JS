@@ -126,4 +126,13 @@ line-height: .75;
 	.navbar-brand p img { /* Star-K */
  		height: 20px;
  	}
+
+ 	#collapsible-nav a { /* Collapsed nav menu glyph */
+ 		font-size: 1.2em;
+  	}
+
+  	#collapsible-nav a span {
+		font-size: 1em;
+		margin-right: 5px;
+  	}
 }
