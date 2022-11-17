@@ -94,7 +94,7 @@ line-height: .75;
 @media (min-width: 992px) and (max-width: 1199px) {
 /* Header */
 #logo-img {
-	background: url('../images/restaurant-logo-medium.png') no-repeat;
+	background: url('../images/restaurant-logo_medium.png') no-repeat;
 	width: 100px;
 	height: 100px;
 	margin: 5px 5px 5px 0;
@@ -116,7 +116,7 @@ line-height: .75;
 	}
 	.navbar-brand h1 { /* Restaurant name */
 		padding-top: 10px;
-		font-size: 5vw;
+		font-size: 5vw; /* 1vw = 1% of viewport width */
 	}
 	.navbar-brand p { /* Kosher cert */ 
 		text-transform: uppercase;
