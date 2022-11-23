@@ -91,6 +91,17 @@ line-height: .75;
 	border: 2px solid #3f0c1f;
 }
 
+#menu-tile, #specials-tile, #map-tile {
+  height: 250px;
+  width: 100%;
+  margin-bottom: 15px;
+  position: relative;
+  border: 2px solid #3F0C1F;
+  overflow: hidden;
+}
+#menu-tile:hover, #specials-tile:hover, #mqp-tile:hover {
+  box-shadow: 0 1px 5px 1px #cccccc;
+}
 /* End Home Page */
 
 /********* Large devices only *********/
