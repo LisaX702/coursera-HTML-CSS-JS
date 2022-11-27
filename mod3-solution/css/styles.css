@@ -31,7 +31,6 @@ body {
 	font-family: 'Lora', serif;
 	color: #fff;
 	font-size: 1.5em;
-	text-transform: uppercase;
 	font-weight: bold;
 	text-shadow: 1px 1px 1px #222;
 	margin-top: 0;
@@ -56,4 +55,6 @@ body {
  	text-align: center;
  	font-family: 'Oxygen', sans-serif;
  	color: #fff;
+ 	font-size: 1.5em;
+ 	line-height: .75;
  }
