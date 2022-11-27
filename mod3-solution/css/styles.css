@@ -45,4 +45,5 @@ body {
  .navbar-header button.navbar-toggle {
  	clear: both;
  	margin-top: -30px;
+ 	float: right;
  }
