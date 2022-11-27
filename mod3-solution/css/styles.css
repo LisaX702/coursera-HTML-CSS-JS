@@ -14,7 +14,6 @@ body {
 
 .navbar-brand {
 	padding-top: 15px;
-	width: 100%;
 }
 
 #nav-list a {
@@ -38,6 +37,10 @@ body {
 	margin-bottom: 0;
 	line-height: .75;
  }
+
+.navbar-header {
+	width: 100%;
+}
 
  .navbar-header button.navbar-togle, .navbar-header, .icon-bar {
  	border: 1px solid #1592bf;
