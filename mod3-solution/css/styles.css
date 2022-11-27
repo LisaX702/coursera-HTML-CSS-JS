@@ -38,10 +38,14 @@ body {
 	line-height: .75;
  }
 
- 
  .navbar-header button.navbar-togle, .navbar-header, .icon-bar {
  	border: 1px solid #1592bf;
  }
+
+.navbar-toggle {
+	position: relative;
+	float: right;
+}
 
  .navbar-header button.navbar-toggle {
  	clear: both;
