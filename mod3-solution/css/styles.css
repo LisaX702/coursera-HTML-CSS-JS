@@ -51,7 +51,7 @@ body {
  /** END HEADER **/
 
  /** HOME PAGE **/
- .text-center h1 {
+ p.text-center h1 {
  	font-family: 'Oxygen', sans-serif;
  	color: #fff;
  	font-size: 1.5em;
