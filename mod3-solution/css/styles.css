@@ -58,8 +58,8 @@ body {
  	line-height: .75;
  }
 
- #long-content {
- 	height: 1000px;
+ #food-tiles {
+ 	height: 700px;
  	background: #c4cccf;
  	color: #000;
  }
