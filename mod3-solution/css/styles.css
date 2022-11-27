@@ -16,6 +16,16 @@ body {
 	padding-top: 25px;
 }
 
+#nav-list a {
+	background: #fff;
+	color: #1592bf;
+	text-align: center;
+}
+
+#nav-list a:hover {
+	background: #c4cccf;
+}
+
 .navbar-brand h1 { /*Restaurant name */
 	font-family: 'Lora', serif;
 	color: #fff;
@@ -29,7 +39,7 @@ body {
  }
 
  .navbar-header button.navbar-togle, .navbar-header, .icon-bar {
- 	border: 1px solid #61122f;
+ 	border: 1px solid #1592bf;
  }
 
  .navbar-header button.navbar-toggle {
